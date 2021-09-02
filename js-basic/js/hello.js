@@ -15,6 +15,8 @@ dt.setMonth(7);
 //日
 //dt.setDate(29);
 dt.setDate(27);
+
+document.body.style.backgroundColor = "#ccffcc";
 //曜日
 //日曜が0、土曜日が6。
 //dt.getDay(1)
