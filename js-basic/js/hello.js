@@ -13,7 +13,6 @@ dt.setFullYear(2021);
 dt.setMonth(7);
 
 //日
-//dt.setDate(29);
 dt.setDate(27);
 
 document.body.style.backgroundColor = "#ccffcc";
